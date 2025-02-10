@@ -1,1 +1,7 @@
-/*  your css code here. If applicable */
+body{
+	background-image:url("https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg");
+	background-size:cover;
+}
+h1{
+	font-size:10px;
+}
